@@ -63,6 +63,17 @@ All Python dependencies are listed in `requirements.txt`.
 
 ---
 
+## 🖥️ System Requirements
+
+* **Operating System**: Windows 10/11, macOS (11+), or Linux (Ubuntu 18.04+ recommended)
+* **CPU**: 4+ cores (recommended for running LLM locally)
+* **RAM**: Minimum 8 GB (16 GB+ recommended for smoother LLM operation)
+* **Disk Space**: At least 5 GB free (for models and NLTK corpora)
+* **Python Version**: 3.6 or higher
+* **Network**: No internet required for chatbot operation after initial setup (Ollama and models run locally)
+
+---
+
 ## ⚙ Installation
 
 1. **Clone the Repo**
@@ -139,3 +150,4 @@ Offline-Chatbot-using-Ollama-and-NLTK/
 ## 📄 License
 
 MIT License © Boominathan Alagirisamy. See [LICENSE](LICENSE).
+
